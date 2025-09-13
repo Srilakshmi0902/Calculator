@@ -9,7 +9,7 @@ It demonstrates simple use of:
 - Basic arithmetic operations
 ## How to Run
 1. Save the program as `calc.py`.
-2. Open a terminal and navigate to the folder containing `calculator.py`.
+2. Open a terminal and navigate to the folder containing `calc.py`.
 3. Run the program:
    ```bash
    python calc.py
